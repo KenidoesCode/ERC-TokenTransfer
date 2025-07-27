@@ -1,4 +1,4 @@
-# 🪙 Voting System – Task 4: ERC-20 Token
+# ERC-20 Token
 
 > ✅ Built completely by me, line-by-line, with the help of ChatGPT only for understanding concepts and clearing doubts.
 
